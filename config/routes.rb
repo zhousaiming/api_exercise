@@ -4,4 +4,5 @@ Rails.application.routes.draw do
 	  	post :update_temp
 	  end
 	end
+
 end
